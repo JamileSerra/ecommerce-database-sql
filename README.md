@@ -180,6 +180,6 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 ---
 
-## 👩‍💻 Autora
+💡 Projeto desenvolvido para fins de estudo.
 
-**Jamile Alves Serra**
+👩‍💻 Autoria: Jamile Alves Serra
