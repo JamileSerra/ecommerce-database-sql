@@ -3,8 +3,9 @@
 ## 📌 Descrição do Projeto
 
 Este projeto consiste na modelagem lógica e implementação de um banco de dados para um cenário de e-commerce, utilizando MySQL.
+Projeto desenvolvido durante um desafio prático, com foco na criação de estruturas relacionais, definição de constraints e construção de consultas SQL para análise de dados.
 
-Foram criadas as tabelas, definidas chaves primárias e estrangeiras, aplicadas constraints e inseridos dados para testes. Além disso, foram desenvolvidas consultas SQL para análise das informações.
+Foram criadas tabelas, definidas chaves primárias e estrangeiras, aplicadas constraints e inseridos dados para testes. Além disso, foram desenvolvidas consultas SQL para análise das informações.
 
 ---
 
